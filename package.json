@@ -1,0 +1,19 @@
+{
+  "name": "npm-dm-test",
+  "version": "1.0.0",
+  "description": "Test Repository to Manage Application Dependencies with npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeChester/npm-dm-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeChester/npm-dm-test/issues"
+  },
+  "homepage": "https://github.com/JoeChester/npm-dm-test#readme"
+}
